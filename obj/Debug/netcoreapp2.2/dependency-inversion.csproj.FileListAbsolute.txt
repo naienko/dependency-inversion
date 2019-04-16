@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\bin\Debug\netcoreapp2.2\dependency-inversion.deps.json
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\bin\Debug\netcoreapp2.2\dependency-inversion.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\bin\Debug\netcoreapp2.2\dependency-inversion.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\bin\Debug\netcoreapp2.2\dependency-inversion.dll
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\bin\Debug\netcoreapp2.2\dependency-inversion.pdb
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\obj\Debug\netcoreapp2.2\dependency-inversion.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\obj\Debug\netcoreapp2.2\dependency-inversion.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\obj\Debug\netcoreapp2.2\dependency-inversion.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\obj\Debug\netcoreapp2.2\dependency-inversion.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\obj\Debug\netcoreapp2.2\dependency-inversion.dll
+C:\Users\naienko\workspace\csharp\exercises\dependency-inversion\obj\Debug\netcoreapp2.2\dependency-inversion.pdb
