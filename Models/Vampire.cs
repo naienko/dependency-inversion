@@ -2,8 +2,9 @@ using System;
 
 namespace dependency_inversion
 {
-	public class Vampire : IArgentphobic, ICombustable
+	public class Vampire : Monster, IArgentphobic, ICombustable
 	{
+		public string typeName { get; } = "Vampire";
 		public void Stab()
 		{
 			Console.WriteLine("You just killed the Vampire");

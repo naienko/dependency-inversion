@@ -2,8 +2,9 @@ using System;
 
 namespace dependency_inversion
 {
-	public class Ghast : ICombustable, IUnholy
+	public class Ghast : Monster, ICombustable, IUnholy
 	{
+		public string typeName { get; } = "Ghast";
 		public void Burn(string attack) {
 			if (attack == "Fire")
 			{

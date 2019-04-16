@@ -32,6 +32,10 @@ namespace dependency_inversion
 		{
 			monster.Stab();   // Stabs with silver knife
 		}
+		public void Destroy(Monster monster)
+		{
+			monster.Universal();
+		}
 
 		public override string ToString()
 		{

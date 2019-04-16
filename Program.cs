@@ -9,6 +9,8 @@ namespace dependency_inversion
 		{
 			Hunter VonRimmersmark = new Hunter("Erich", "Von Rimmersmark");
 
+            Console.WriteLine(VonRimmersmark);
+
 			Mummy tuts = new Mummy();
 
 			VonRimmersmark.Ignite(tuts);
@@ -16,6 +18,10 @@ namespace dependency_inversion
             Demon hellboy = new Demon();
 
             VonRimmersmark.SplashWater(hellboy);
+
+            Ghast lucifer = new Ghast();
+
+            VonRimmersmark.Destroy(lucifer);
 		}
 	}
 }
